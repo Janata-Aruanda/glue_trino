@@ -72,10 +72,13 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 - Selecione o usuário que quer criar o par de chaves, seleciona em **Credenciais de segurança**
 ![image](https://github.com/user-attachments/assets/2f5af592-f859-4624-a93e-b3d29c7fdbef)
 
+- Seleciona **criar par de chaves**
+
 ![image](https://github.com/user-attachments/assets/a80dc82e-7976-485f-aa79-9113d9c0224c)
 
+- Selecione **CLI**, mas pode selecionar outro campos acasso for usar essa chaves para outra atividade  e confirma
+  
 ![image](https://github.com/user-attachments/assets/292719c2-505d-4426-96c3-9ad1766d1062)
-- Selecione **CLI**, mas pode selecionar outro campos acasso for usar essa chaves para outra atividade
 
 ![image](https://github.com/user-attachments/assets/2b899647-304a-4ea3-8ec9-ea7bf343f985)
 
