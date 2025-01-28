@@ -196,7 +196,9 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 
 ![image](https://github.com/user-attachments/assets/b6d4847c-3881-41aa-8b8c-16702ac1e906)
 
+![image](https://github.com/user-attachments/assets/933a5e08-a17c-46a1-b344-72ea520c2140)
 
+![image](https://github.com/user-attachments/assets/8b528eff-d91b-4a78-9c49-899f274feca2)
 
 
 
