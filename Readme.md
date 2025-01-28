@@ -192,14 +192,9 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 
 # TrinoIO
 
+- Após subir o serviço trino no docker, pode conectar o serviço em alguma client.
 
-
-
-
-
-
-
-
+![image](https://github.com/user-attachments/assets/b6d4847c-3881-41aa-8b8c-16702ac1e906)
 
 
 
