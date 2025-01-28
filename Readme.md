@@ -182,6 +182,15 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 
 ![image](https://github.com/user-attachments/assets/47d57508-0fb3-4860-ad49-4939208730f4)
 
+## Table Glue
+
+- Após rodar o crawler, vai ter uma tabela mapeado e pode ser consumido pela Trino IO ou Athena
+
+![image](https://github.com/user-attachments/assets/d98038e3-0937-4b23-adf1-6acd29e822fc)
+
+
+# TrinoIO
+
 
 
 
