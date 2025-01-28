@@ -122,7 +122,7 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 
 ![image](https://github.com/user-attachments/assets/c55fedc0-0aa8-444c-83d6-c7cb7883f4d6)
 
-# Trabalhando cmo Glue
+# Trabalhando com Glue
 
 - Na barra de pesquisa, procure pelo o **glue**
 
