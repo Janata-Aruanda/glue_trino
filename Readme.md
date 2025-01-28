@@ -121,6 +121,75 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 
 ![image](https://github.com/user-attachments/assets/c55fedc0-0aa8-444c-83d6-c7cb7883f4d6)
 
+# Trabalhando cmo Glue
+
+- Na barra de pesquisa, procure pelo o **glue**
+
+![image](https://github.com/user-attachments/assets/45c7e2ac-c114-4de9-bd8b-8266f6cc9697)
+
+
+## Database Glue
+
+- Na Barra lateral em **data catalog**, clica em **Databases**
+
+![image](https://github.com/user-attachments/assets/6198f19d-a32a-4258-8e35-4d8416cfb584)
+
+- Vai listar o banco que tem, mas clica em criar um **database**
+
+![image](https://github.com/user-attachments/assets/f35d722f-89b6-4ebb-ab70-7301a8e8bb7c)
+
+- Inclue o nome do banco e clica em **Create databese**
+
+![image](https://github.com/user-attachments/assets/11b76843-3bf8-4712-9266-847ceb546006)
+
+- Na tela do databases, vai listar seus bancos
+
+![image](https://github.com/user-attachments/assets/5a7d24ab-c0c9-48d4-b8d9-455d99a13cc5)
+
+## Crawlers
+
+- Na Barra lateral em **data catalog**, clica em **Crawlers**
+- Irá listar o crawlers que tem e pode criar e editar caso for necessario
+
+![image](https://github.com/user-attachments/assets/4b2e908e-3910-453f-87e7-0fed8ffb18af)
+
+- Pode incluir o nome do crawler
+
+![image](https://github.com/user-attachments/assets/91479af3-c2ad-47ab-9b74-fe3847571fd2)
+
+- Irá configurar o data source
+
+![image](https://github.com/user-attachments/assets/cc0b3516-b27e-4c57-9afc-ad74febb42b4)
+
+- Pode selecionar qual bucket 
+
+![image](https://github.com/user-attachments/assets/69e913f0-f09a-4318-8861-56ad071afdb1)
+![image](https://github.com/user-attachments/assets/21a11177-f1a0-4f68-b228-78a6be7f804b)
+
+- Deixa o padrão, mas pode selecionar quando entrar um arquivo novo e etc
+
+![image](https://github.com/user-attachments/assets/825ceea7-eb64-4379-b6e2-017f85124de0)
+
+- Selecionar a role 
+
+![image](https://github.com/user-attachments/assets/65396935-d2e1-48fe-b607-de92c71d2e69)
+
+- Vai selecionar a database
+  
+![image](https://github.com/user-attachments/assets/87e6e93a-a207-4ff6-bad2-d921a4973d04)
+
+- Revisar seu crawler
+
+![image](https://github.com/user-attachments/assets/47d57508-0fb3-4860-ad49-4939208730f4)
+
+
+
+
+
+
+
+
+
 
 
 
