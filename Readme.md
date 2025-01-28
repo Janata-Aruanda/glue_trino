@@ -72,7 +72,7 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 - Selecione o usuário que quer criar o par de chaves, seleciona em **Credenciais de segurança**
 ![image](https://github.com/user-attachments/assets/2f5af592-f859-4624-a93e-b3d29c7fdbef)
 
-- Seleciona **criar par de chaves**
+- Seleciona **criar chaves de acesso**
 
 ![image](https://github.com/user-attachments/assets/a80dc82e-7976-485f-aa79-9113d9c0224c)
 
@@ -85,6 +85,41 @@ Foi usado solução Aws como, S3 para o armazenando de objetos com foco no data 
 - Será exibido o par de chaves
   
 ![image](https://github.com/user-attachments/assets/a91f0441-2c60-473d-97db-3ea9b617778a)
+
+# Criando Data lake com S3
+
+- Na barra de busca, procure pelo S#3
+
+![image](https://github.com/user-attachments/assets/7ec270aa-b278-4c34-85dc-afab7059fea1)
+
+- Clica no campo **criar bucket**
+
+![image](https://github.com/user-attachments/assets/0df5d599-d324-45ec-af47-c9b3bf52d780)
+
+
+- Deixa selecionado com padrõa o **Propósito geral** e adicionae um nome para o bucket
+
+![image](https://github.com/user-attachments/assets/88e7c0ba-1180-462e-a260-928f4b8125d5)
+
+-  Deixe **Propriedade de objeto ** desativado
+
+![image](https://github.com/user-attachments/assets/5d82dc64-3e12-4a43-bb8e-c9ee863565fd)
+
+- Deixe o acesso do bucket **bloqueado todo o acesso público**
+
+![image](https://github.com/user-attachments/assets/149726f5-b2cd-4981-ae0a-8322f131f4d6)
+
+- **Versionamento do bucket** desativiado
+
+![image](https://github.com/user-attachments/assets/8ee5d748-172e-48af-941f-bbe44bfd713b)
+
+- **Criptografia padrão**, deixe padrão
+
+![image](https://github.com/user-attachments/assets/6e91180d-a45e-4748-96cf-8c26a7163fe6)
+
+- Após criar o bucket, vai está listado na tela padrão do serviço s3
+
+![image](https://github.com/user-attachments/assets/c55fedc0-0aa8-444c-83d6-c7cb7883f4d6)
 
 
 
