@@ -1,1 +1,14 @@
+version: '4.0'
+
+services:
+  trino:
+    image: trinodb/trino:latest
+    container_name: trino
+    ports:
+      - "8080:8080"
+    volumes:
+      - ./trino-config:/etc/trino
+      - ./catalog:/etc/trino/catalog
+    environment:
+      - AWS_REGION=us-east-2
 
